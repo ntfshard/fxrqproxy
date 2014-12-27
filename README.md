@@ -1,4 +1,4 @@
 fxrqproxy
 =========
 
-Simple ruby proxy server. You can use it to change requests and responses
+Simple ruby proxy server. You can use it to change requests and responses on the fly.
